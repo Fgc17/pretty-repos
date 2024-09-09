@@ -14,4 +14,5 @@ This may serve as inspiration for people trying to start a repository.
 | --- | ---
 | [Jotai](https://github.com/pmndrs/jotai) | 👻 Primitive and flexible state management for React
 | [Zustand](https://github.com/pmndrs/zustand) | 🐻 Bear necessities for state management in React 
-| [React Hook Form](https://github.com/react-hook-form) | 📋 React Hooks for form state management and validation (Web + React Native)
+| [React Hook Form](https://github.com/react-hook-form) | 📋 React Hooks for form state management and validation
+| [Necord](https://github.com/necordjs/necord) | 🤖 A module for creating Discord bots using NestJS
